@@ -1,0 +1,1749 @@
+/*---------- Responsive css Start -------*/
+
+@media(max-width:1600px) {
+    .impl_logo {
+        padding: 0px 150px 0px 50px;
+    }
+}
+@media (max-width: 1400px) {
+    .impl_service_wrapper.impl_faq_wrapper .impl_welcome_text {
+        padding: 50px 50px 50px 0px;
+    }
+    .impl_logo {
+        padding: 0px 75px 0px 15px;
+    }
+    .impl_menu_wrapper ul li {
+        padding-right: 11px;
+    }
+}
+@media (max-width: 1200px) {
+    .impl_service_car {
+        width: 14%;
+    }
+    .srch_inner form {
+        width: 95%;
+    }
+    .impl_progress_wrapper .progress .progress-value:after {
+        margin-left: -2px;
+    }
+}
+@media(max-width:1024px){
+	.impl_purchase_wrapper .impl_fea_car_data {
+		min-height: 343px;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    .impl_con_form {
+        padding: 30px 30px 30px 30px;
+        width: 100%;
+    }
+    .contact_map {
+        position: relative;
+        left: 0;
+        transform: none;
+        -webkit-transform: none;
+        -moz-transform: none;
+        -ms-transform: none;
+        margin-bottom: 30px;
+    }
+    .impl_con_form .form-group {
+        margin-bottom: 15px;
+    }
+    .impl_con_form h1 {
+        padding-bottom: 5px;
+    }
+    .impl_contact_box {
+        padding: 25px 10px;
+        width: 240px;
+    }
+    .impl_con_data p,
+    .impl_con_data h2 {
+        font-size: 18px;
+    }
+    #contact_map {
+        width: 100%;
+        height: 400px;
+    }
+    .impl_checkout_wrapper #step_progressbar li {
+        width: 180px;
+    }
+    .impl_cart_footer .impl_footer_subs input {
+        padding-left: 10px;
+        font-size: 13px;
+    }
+    .impl_cart_footer .impl_footer_subs .foo_subs_btn {
+        width: 60px;
+        font-size: 13px;
+    }
+    ul.step_car_img li {
+        margin-right: 17px;
+    }
+    #step_progressbar li,#impl_sform .steps ul li {
+        margin-right: 150px;
+    }
+    #step_progressbar li:after,#impl_sform .steps ul li:after {
+        width: 150%;
+        left: -149px;
+    }
+    .step_car_features ul {
+        width: 75%;
+    }
+    .impl_buycar_data .impl_btn {
+        margin-right: 15px;
+    }
+    .impl_car_spesi_list {
+        width: 100%;
+    }
+    .impl_purchase_wrapper .impl_fea_car_data {
+        padding: 30px 15px;
+    }
+    .impl_product_brand ul li label,
+    .impl_product_color ul li label {
+        padding-left: 20px;
+    }
+    .impl_test_data {
+        padding: 70px 26px 30px 188px;
+    }
+    .impl_searchbox_wrapper.impl_home_searchbox .nice-select {
+        margin: 0px 12px 30px;
+    }
+    .impl_service_wrapper.impl_faq_wrapper .impl_welcome_text {
+        padding: 50px 0px 50px 0px;
+    }
+    .impl_service_wrapper.impl_faq_wrapper .impl_welcome_text .panel-title a {
+        padding: 10px 0px 9px 15px;
+    }
+    .impl_service_wrapper.impl_faq_wrapper .impl_welcome_text .panel-title a:after {
+        right: 10px;
+    }
+    .impl_searchbox_wrapper.impl_home_searchbox .price_range {
+        width: 99%;
+    }
+    .impl_logo {
+        display: none;
+    }
+    .impl_logo_responsive {
+        float: left;
+        padding-top: 10px;
+    }
+    .impl_service_wrapper.impl_faq_wrapper .impl_welcome_text .panel-default>.panel-heading+.panel-collapse>.panel-body {
+        padding: 15px 20px;
+        line-height: 25px;
+    }
+    .impl_ser_text_ovrly p {
+        padding: 15px 10px 0px;
+    }
+    .impl_count_text p {
+        font-size: 17px;
+    }
+    .impl_menu_wrapper ul {
+        float: left;
+        width: 100%;
+        text-align: center;
+    }
+    .impl_menu_wrapper ul li {
+        list-style: none;
+        float: none;
+        display: inline-block;
+    }
+    .impl_menu_wrapper ul li:last-child {
+        padding-right: 0;
+    }
+    .impl_menu_wrapper ul li a {
+        padding: 23px 10px 13px;
+    }
+    ul.impl_header_icons li:last-child {
+        margin-right: 0px;
+    }
+    .impl_header_wrapper.impl_home_wrapper .impl_header_time {
+        padding: 0px 55px;
+    }
+    .impl_header_wrapper.impl_home_wrapper .impl_menu_wrapper ul li a {
+        padding: 17px 10px 17px;
+    }
+    .impl_header_wrapper.impl_home_wrapper .impl_menu_wrapper ul li a:before,
+    .impl_header_wrapper.impl_home_wrapper .impl_menu_wrapper ul li a:after {
+        top: 17px;
+    }
+    .impl_search_box {
+        padding: 15px 15px;
+        position: relative;
+    }
+    .impl_search_btn {
+        width: 20%;
+        padding-right: 24px;
+    }
+    .impl_search_box select {
+        width: 20.7%;
+    }
+    .srch_inner {
+        width: 75%;
+    }
+    .srch_inner form {
+        width: 95%;
+    }
+    .impl_menu_wrapper ul li ul.sub-menu {
+        text-align: left;
+    }
+    .impl_search_box .nice-select {
+        margin-right: 28px;
+        width: 26.1%;
+    }
+    .impl_select_boxes {
+        width: 80%;
+    }
+    .impl_search_box .price_range {
+        width: 92%;
+    }
+    .impl_welcome_text h1 {
+        font-size: 29px;
+    }
+    .impl_social_wrapper ul li a {
+        margin-right: 95px;
+    }
+    .impl_fea_car_data {
+        padding: 30px 20px;
+    }
+    .impl_help_data h1 {
+        font-size: 34px;
+    }
+    .impl_help_data h1:before,
+    .impl_help_data h1:after {
+        width: 11%;
+    }
+    .impl_logo_responsive {
+        display: block;
+    }
+    .impl_welcome_text .panel-heading .accordion-toggle:before {
+        border-top: 65px solid #f15b5a;
+        border-right: 16px solid transparent;
+    }
+    .impl_welcome_text .panel-heading .accordion-toggle:after {
+        height: 100%;
+        line-height: 64px;
+        line-height: 64px;
+    }
+    .impl_video_inner {
+        background-size: cover;
+    }
+    .impl_buy_old_car_data .step_car_features ul {
+        width: 100%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .comment-reply {
+        margin-top: 15px;
+    }
+    .impl_logo {
+        width: 100%;
+        padding-top: 15px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .impl_header_time {
+        margin: 0px 20px;
+        padding: 0px 20px;
+    }
+    .impl_menu_wrapper ul li {
+        padding-right: 0px;
+    }
+    .impl_menu ul > li ul.sub-menu li:last-child a {
+        border: none;
+    }
+    .impl_menu ul > li ul.sub-menu li a:hover {
+        color: #f15b5b;
+    }
+    .impl_menu_wrapper ul li:last-child {
+        padding-right: 0px;
+    }
+    ul.impl_header_social li {
+        margin-right: 20px;
+    }
+    ul.impl_header_icons li {
+        margin-right: 20px;
+    }
+    ul.impl_header_icons li:last-child {
+        margin-right: 0px;
+    }
+    .impl_header_wrapper.impl_home_wrapper .impl_header_time {
+        padding: 0px 24px;
+    }
+    .impl_search_box {
+        padding: 15px 15px;
+    }
+    .impl_search_box select {
+        width: 29.1%;
+    }
+    .price_range {
+        width: 100%;
+        padding: 0px 15px;
+    }
+    .impl_search_btn {
+        padding-top: 40px;
+        padding-bottom: 15px;
+    }
+    .impl_welcome_img {
+        margin-top: 0px;
+    }
+}
+@media(min-width:991px) {
+    .impl_menu_wrapper ul li ul.sub-menu {
+        position: absolute;
+        min-width: 210px;
+        background-color: #fff;
+        top: 100%;
+        left: 0;
+        border-bottom: 3px solid #f15b5b;
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(2em);
+        -webkit-transform: translateY(2em);
+        -moz-transform: translateY(2em);
+        -ms-transform: translateY(2em);
+        -o-transform: translateY(2em);
+        z-index: 1;
+        transition: all 0.4s ease-in-out;
+        -webkit-transition: all 0.4s ease-in-out;
+        -moz-transition: all 0.4s ease-in-out;
+        -ms-transition: all 0.4s ease-in-out;
+        -o-transition: all 0.4s ease-in-out;
+    }
+    .impl_menu_wrapper ul li:hover > ul.sub-menu {
+        visibility: visible;
+        opacity: 1;
+        z-index: 1;
+        transform: translateY(0%);
+        -webkit-transform: translateY(0%);
+        -moz-transform: translateY(0%);
+        -ms-transform: translateY(0%);
+        -o-transform: translateY(0%);
+    }
+    .impl_menu_wrapper ul li ul.sub-menu li {
+        width: 100%;
+        padding-right: 0px;
+        border-bottom: 1px dotted #151515;
+    }
+    .impl_menu_wrapper ul li ul.sub-menu li a {
+        width: 100%;
+        color: #151515;
+        padding: 14px 10px;
+        font-size: 14px;
+    }
+    .impl_menu_wrapper ul li ul.sub-menu li:last-child {
+        border-bottom: none;
+    }
+    .impl_menu_wrapper ul li ul.sub-menu li a:hover {
+        color: #f15b5b;
+    }
+    .impl_menu_wrapper ul li ul.sub-menu li ul.sub-menu {
+        left: 100%;
+        top: 0;
+    }
+    .impl_menu_wrapper ul li ul.sub-menu > li:hover > ul.sub-menu {
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0%);
+        -webkit-transform: translateY(0%);
+        -moz-transform: translateY(0%);
+        -ms-transform: translateY(0%);
+    }
+    .impl_menu_wrapper .impl_btn {
+        margin: 10px 10px;
+        float: right;
+    }
+    .impl_menu_wrapper .impl_btn:after {
+        background-color: #151515;
+        border: 1px solid #151515;
+    }
+    .impl_menu_wrapper .impl_btn:hover:after {
+        border: 1px solid #151515;
+    }
+    .impl_menu_wrapper ul li ul.sub-menu li a:before,
+    .impl_menu_wrapper ul li ul.sub-menu li a:after {
+        display: none;
+    }
+    .impl_menu_btn {
+        float: right;
+        margin-right: 15px;
+        cursor: pointer;
+        display: none;
+    }
+}
+@media(max-width:991px) {
+    .impl_con_form {
+        padding: 30px 30px 30px 30px;
+        width: 100%;
+    }
+    .contact_map {
+        position: relative;
+        left: 0;
+        transform: none;
+        -webkit-transform: none;
+        -moz-transform: none;
+        -ms-transform: none;
+        margin-bottom: 30px;
+    }
+    .impl_con_form .form-group {
+        margin-bottom: 15px;
+    }
+    .impl_con_form h1 {
+        padding-bottom: 5px;
+    }
+    .impl_contact_box {
+        padding: 25px 10px;
+        width: 240px;
+    }
+    .impl_con_data p,
+    .impl_con_data h2 {
+        font-size: 16px;
+    }
+    #contact_map {
+        width: 100%;
+        height: 400px;
+    }
+    .impl_contact_box {
+        width: 100%;
+        -webkit-transform: none;
+        -moz-transform: none;
+        -o-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+    .impl_con_data {
+        -webkit-transform: none;
+        -moz-transform: none;
+        -o-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+    .impl_checkout_wrapper #step_progressbar li {
+        width: 155px;
+        font-size: 13px;
+    }
+    .compare_select_box {
+        width: 100%;
+    }
+    .impl_cart_footer .impl_footer_subs {
+        width: 41%;
+    }
+    .compare_select_box .nice-select {
+        max-width: 100%;
+        width: 100%;
+    }
+    #step_progressbar li,#impl_sform .steps ul li {
+        width: 85px;
+        height: 70px;
+        line-height: 70px;
+        margin-right: 100px;
+    }
+    .step_car_features ul {
+        width: 100%;
+    }
+    #step_progressbar li:after,#impl_sform .steps ul li:after {
+        width: 115%;
+        left: -99px;
+    }
+    h2.widget-title {
+        line-height: 25px;
+    }
+    .widget.widget_recent_entries ul li .recent_cmnt_data {
+        width: 100%;
+        margin-top: 10px;
+    }
+    .impl_provide_wrapper .impl_video_inner.impl_ser_video_img {
+        height: 300px;
+        margin-bottom: 30px;
+    }
+    .impl_provide_wrapper .impl_video_inner {
+        height: 300px
+    }
+    .impl_query_form .impl_btn {
+        margin-left: 15px;
+    }
+    .impl_query_form {
+        margin-bottom: 30px;
+    }
+    .impl_provide_wrapper .impl_service_video {
+        width: 100%;
+        height: auto;
+        top: 0px;
+    }
+    .impl_foo_box ul li a {
+        display: block;
+    }
+    .impl_buycar_data.impl_buy_old_car_data {
+        padding-left: 15px;
+    }
+    .impl_buy_old_car_data .step_car_features ul {
+        width: 100%;
+    }
+    .impl_signin {
+        width: 90%;
+    }
+    .impl_sign_form {
+        padding: 27px 0px 35px 31px;
+        width: 50%;
+    }
+    #signup .impl_sign_bottom {
+        padding-top: 168px;
+    }
+    #signup .impl_sign_form {
+        padding: 40px 0px 35px 29px;
+    }
+    .impl_sign_form h1 {
+        margin-bottom: 25px;
+    }
+    .impl_sign_form p {
+        margin-top: 30px;
+    }
+    .slick-slide img {
+        display: inline-block;
+    }
+    .impl_sign_form .forget_password a {
+        font-size: 13px;
+    }
+    .impl_sign_img {
+        width: 45%;
+        padding: 65px 20px 93px;
+    }
+    .impl_sign_img h2 {
+        font-size: 24px;
+    }
+    .impl_sign_img p {
+        font-size: 18px;
+        padding-top: 20px;
+    }
+    .impl_sign_bottom {
+        padding-top: 106px;
+    }
+    .impl_car_spesi_img {
+        position: relative;
+    }
+    .impl_car_spesi_list {
+        width: 100%;
+        float: left;
+    }
+    ul.impl_car_prts li:nth-child(7) {
+        right: 12%;
+    }
+    .impl_cr_prts_des {
+        width: 183px;
+        font-size: 13px;
+    }
+    .impl_about_data {
+        margin-bottom: 30px;
+    }
+    .impl_history_wrapper .impl_timeline_wrapper ul li .impl_tl_item.impl_tl_item_rt {
+        padding-left: 90px;
+    }
+    .impl_history_wrapper .impl_timeline_wrapper ul li .impl_tl_item {
+        padding-right: 80px;
+    }
+    .impl_test_data {
+        width: 100%;
+        padding: 30px 30px 30px 50px;
+        display: inline-block;
+        margin-left: 0;
+        text-align: center;
+    }
+    .impl_test_img {
+        position: relative;
+        left: 0;
+        top: 0;
+        margin-bottom: 30px;
+        float: none;
+        display: inline-block;
+        transform: none;
+        -webkit-transform: none;
+        -moz-transform: none;
+        -ms-transform: none;
+    }
+    .impl_home_slider h1 {
+        font-size: 70px;
+        margin-bottom: -10px;
+    }
+    .impl_facility_wrapper > img {
+        width: 100%;
+    }
+    .impl_home_slider .slick-dots {
+        left: 30px;
+    }
+    .impl_header_wrapper.impl_home_wrapper .impl_menu_wrapper ul li ul.sub-menu {
+        display: none;
+        float: left;
+    }
+    .impl_searchbox_wrapper.impl_home_searchbox .nice-select {
+        width: 45%;
+        margin: 0px 15px 30px;
+    }
+    .impl_searchbox_wrapper.impl_home_searchbox .impl_search_box {
+        margin-bottom: 30px;
+    }
+    .impl_service_wrapper.impl_faq_wrapper .impl_service_video {
+        width: 100%;
+        position: relative;
+    }
+    .impl_service_wrapper.impl_faq_wrapper .impl_video_inner {
+        -webkit-clip-path: none;
+        clip-path: none;
+    }
+    .impl_service_wrapper.impl_faq_wrapper .impl_welcome_text {
+        padding: 50px 50px 50px 50px;
+    }
+    .impl_cont_box {
+        margin-bottom: 30px;
+    }
+    .impl_video_inner {
+        background-image: url(../images/service/service_bg2.jpg);
+        width: 700px;
+        height: 300px;
+        right: 0;
+        top: 100%;
+        bottom: 0;
+        margin: 0 auto;
+        position: relative;
+        background-size: cover;
+        -webkit-transform: skew(0deg, 0deg);
+        -moz-transform: skew(0deg, 0deg);
+        -ms-transform: skew(0deg, 0deg);
+        transform: skew(0deg, 0deg);
+        -webkit-clip-path: none;
+        clip-path: none;
+    }
+    .impl_play_icon {
+        left: 50%;
+    }
+    .impl_service_video {
+        position: relative;
+        right: 0px;
+        width: 100%;
+        height: 100%;
+        z-index: 1;
+        top: 100%;
+        text-align: center;
+        padding-top: 30px;
+    }
+    .impl_service_car {
+        width: 20%;
+        top: 70%;
+    }
+    .impl_help_data h1 {
+        font-size: 27px;
+        top: -16px;
+    }
+    .impl_help_data p {
+        font-size: 25px;
+    }
+    .impl_help_no {
+        top: 86px;
+    }
+    .impl_post_img {
+        width: 100%;
+        -webkit-clip-path: none;
+        clip-path: none;
+        position: relative;
+        left: 0;
+        top: 0;
+        bottom: 0;
+    }
+    .impl_post_data {
+        padding-left: 30px;
+    }
+    .impl_select_boxes {
+        text-align: center;
+        padding-top: 15px;
+        width: 100%;
+    }
+    .impl_search_btn {
+        width: 100%;
+    }
+    .impl_blog_box.impl_blog_right .impl_post_img {
+        right: 0;
+        bottom: 0;
+        -webkit-clip-path: none;
+        clip-path: none;
+    }
+    .impl_blog_box.impl_blog_right .impl_post_data {
+        padding-right: 30px;
+    }
+    .impl_social_wrapper ul li a {
+        margin-right: 60px;
+    }
+    .impl_search_box .nice-select {
+        margin: 0px 10px 30px;
+        width: 27%;
+        display: inline-block;
+        float: none;
+    }
+    .price_range {
+        padding: 0px 41px;
+    }
+    .srch_inner {
+        width: 65%;
+    }
+    .srch_inner form {
+        width: 95%;
+    }
+	.impl_menu_wrapper {
+		padding-bottom: 10px;
+	}
+    .impl_menu_btn {
+        display: block;
+        color: #ffffff;
+        z-index: 1;
+        position: absolute;
+        right: 15px;
+        top: 15px;
+        font-size: 20px;
+        height: 30px;
+        cursor: pointer;
+        background-color: transparent;
+        border: none;
+		transition:all 0.3s ease-in-out;
+		-webkit-transition:all 0.3s ease-in-out;
+		-moz-transition:all 0.3s ease-in-out;
+		-ms-transition:all 0.3s ease-in-out;
+    }
+    .impl_menu_btn:hover {
+        color: #151515;
+    }
+    .menu_cross {
+        float: right;
+        font-size: 20px;
+        cursor: pointer;
+        display: block;
+        width: 100%;
+        background-color: #151515;
+        text-align: right;
+        padding: 15px 20px;
+    }
+    .impl_menu_wrapper .impl_btn {
+		float: none;
+		display: inline-block;
+		position: absolute;
+		left: 56%;
+		transform: translateX(-50%);
+		-webkit-transform: translateX(-50%);
+		-ms-transform: translateX(-50%);
+		-moz-transform: translateX(-50%);
+    }
+    .impl_menu_inner {
+        text-align: center;
+        padding: 10px 0px;
+		position:relative;
+    }
+    .impl_logo {
+        display: none;
+    }
+    .impl_logo_responsive {
+        float: left;
+        display: block;
+    }
+    .impl_menu_wrapper .impl_menu_inner .impl_menu {
+        position: fixed;
+        width: 300px;
+        top: 0;
+        height: 100%;
+        left: -100%;
+        background-image: url(../images/service/service_bg1.jpg);
+        background-color: #f15b5b;
+        background-size: cover;
+        z-index: 1000;
+        overflow-y: scroll;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.44);
+        transition: all 0.3s ease-in-out;
+        -webkit-transition: all 0.3s ease-in-out;
+        -moz-transition: all 0.3s ease-in-out;
+        -ms-transition: all 0.3s ease-in-out;
+        -o-transition: all 0.3s ease-in-out;
+    }
+    .impl_menu::-webkit-scrollbar {
+        width: 5px;
+    }
+    .impl_menu::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 6px #ffffff;
+    }
+    .impl_menu::-webkit-scrollbar-thumb {
+        background-color: #ffffff;
+        outline: 2px solid #ffffff;
+    }
+    .impl_menu_wrapper.open_menu .impl_menu {
+        left: 0 !important;
+    }
+    .impl_menu_wrapper ul li.dropdown {
+        width: 100%;
+    }
+    .impl_menu ul > li {
+        width: 100%;
+    }
+    .impl_menu ul > li > a {
+        border-bottom: 1px solid #f4f4f438;
+        width: 100%;
+        text-align: left;
+    }
+    .dropdown-expander {
+        float: right;
+        display: block;
+        font-size: 18px;
+        margin-top: -5px;
+    }
+    .impl_menu ul > li ul.sub-menu {
+        display: none;
+        position: relative;
+        background-color: #ffffff;
+        float: left;
+        width: 100%;
+    }
+    .impl_menu ul > li ul.sub-menu li a {
+        border-bottom: none;
+        color: #151515;
+        border-bottom: 1px solid #e7d7d7;
+        padding: 20px 10px;
+        width: 100%;
+    }
+    .impl_menu_wrapper ul li a:hover:after,
+    .impl_menu_wrapper ul li a:hover:before,
+    .impl_menu_wrapper ul li a.active:before,
+    .impl_menu_wrapper ul li a.active:after {
+        display: none;
+    }
+    .impl_fea_car_data {
+        min-height: 278px;
+    }
+    .impl_purchase_wrapper .impl_fea_car_data {
+        min-height: 320px;
+    }
+    .impl_product_brand.widget.woocommerce ul li,
+    .impl_product_color.widget.woocommerce ul li {
+        width: 100%;
+    }
+    .comments-area ol.commentlist li.comment .children {
+        padding-left: 0;
+    }
+    .comment_data_info p {
+        float: left;
+        margin-top: 10px;
+    }
+	.impl_provide_wrapper .impl_play_icon:before {
+		left: -33px;
+		top: -10px;
+	}
+}
+@media (max-width: 767px) {
+	.compare_img {
+		margin-bottom: 15px;
+	}
+	.comment_data_info h3 {
+		width: 100%;
+	}
+    .error_text span {
+        font-size: 120px;
+        width: 135px;
+        height: 135px;
+        line-height: 108px;
+    }
+    .impl_contact_box {
+        margin-bottom: 30px;
+    }
+    .impl_checkout_wrapper #step_progressbar li {
+        width: 100px;
+    }
+    .impl_checkout_wrapper #step_progressbar li span {
+        -webkit-transform: none;
+        -moz-transform: none;
+        -o-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+    .impl_checkout_wrapper #step_progressbar li {
+        -webkit-transform: none;
+        -moz-transform: none;
+        -o-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+    .impl_checkout_wrapper .woocommerce table {
+        border-color: #555555;
+        overflow-x: scroll;
+        display: block;
+    }
+    .compare_table table {
+        display: block;
+    }
+    .impl_cart_footer .impl_footer_subs {
+        width: 100%;
+    }
+    .impl_step.impl_print_rcpt p {
+        width: 100%;
+    }
+    .cart-subtotals {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .compare_table table::-webkit-scrollbar,
+    .impl_checkout_wrapper .woocommerce table::-webkit-scrollbar {
+        width: 3px;
+    }
+    .compare_table table::-webkit-scrollbar-track,
+    .impl_checkout_wrapper .woocommerce table::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 1px #ffffff;
+    }
+    .compare_table table::-webkit-scrollbar-thumb,
+    .impl_checkout_wrapper .woocommerce table::-webkit-scrollbar-thumb {
+        background-color: #ffffff;
+        outline: 2px solid #ffffff;
+    }
+    #step_progressbar li,#impl_sform .steps ul li {
+        width: 65px;
+        height: 65px;
+        line-height: 65px;
+        margin-right: 50px;
+    }
+    #step_progressbar li:after ,#impl_sform .steps ul li:after{
+        width: 50px;
+        left: -50px;
+    }
+    ul.step_car_img li {
+        margin: 0px 15px 25px;
+    }
+    .step_car_features ul li {
+        padding: 0px 15px;
+        font-size: 15px;
+    }
+    .impl_blog_wrapper.impl_blog_page.impl_rightsidebar .impl_sidebar {
+        margin-top: 30px;
+    }
+    .impl_blog_section .impl_blog_box .impl_post_data ul.impl_pst_views {
+        float: right;
+        padding-top: 0;
+    }
+    .widget.widget_recent_entries ul li .recent_cmnt_data {
+        width: calc(100% - 75px);
+        margin-top: 0px;
+    }
+    .impl_buycar_data p {
+        width: 100%;
+    }
+    .impl_review_box h2 {
+        font-size: 18px;
+        line-height: 27px;
+    }
+    .impl_descrip_box {
+        text-align: center;
+    }
+    ul.impl_car_prts li {
+        display: none;
+    }
+    .impl_buycar_data .impl_btn {
+        margin-right: 9px;
+    }
+    .impl_product_brand.widget.woocommerce ul li,
+    .impl_product_color.widget.woocommerce ul li {
+        width: 50%;
+    }
+    .impl_history_wrapper .impl_timeline_wrapper ul li .impl_tl_item {
+        padding-right: 0;
+    }
+    .impl_history_wrapper .impl_tl_icon {
+        display: none;
+    }
+    .impl_history_wrapper .impl_timeline_wrapper ul li .impl_tl_item.impl_tl_item_rt {
+        padding-left: 0;
+    }
+    .impl_test_slider_box {
+        padding-left: 0;
+    }
+    .impl_test_data {
+        padding: 30px 30px 30px 30px;
+    }
+    .impl_test_quote img {
+        width: 59%;
+    }
+    .impl_test_quote {
+        top: -9px;
+        left: -13px;
+    }
+    .impl_foo_text a {
+        display: block;
+    }
+    .impl_about_data {
+        text-align: center;
+    }
+    .impl_progress_wrapper .progressText {
+        margin-bottom: 30px;
+    }
+    .impl_change_text {
+        text-align: center;
+        top: -75px;
+    }
+    .impl_ex_btn {
+        text-align: center;
+        padding-top: 50px;
+    }
+    .mouse-wrap {
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        text-align: center;
+        margin-top: 20px;
+    }
+    .impl_service_wrapper.impl_faq_wrapper .impl_welcome_text {
+        padding: 50px 0px 50px 0px;
+    }
+    .impl_service_wrapper.impl_faq_wrapper .impl_welcome_text .panel-default>.panel-heading+.panel-collapse>.panel-body {
+        padding: 15px 15px;
+        line-height: 24px;
+    }
+    .impl_service_wrapper.impl_faq_wrapper .impl_welcome_text .panel-title a:after {
+        right: 8px;
+    }
+    .impl_service_wrapper.impl_faq_wrapper .impl_welcome_text .panel-title a {
+        font-size: 15px;
+        padding: 10px 0px 9px 10px;
+    }
+    .impl_cont_box {
+        margin: 10px auto;
+        text-align: center;
+    }
+    .impl_count_text {
+        width: 100%;
+        float: left;
+        padding-left: 0;
+        text-align: center;
+    }
+    .impl_count_img {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .impl_blog_wrapper.impl_home_blog {
+        margin-bottom: 0;
+    }
+    .impl_footer_wrapper.impl_home_footer {
+        position: relative;
+        z-index: 1;
+    }
+    .impl_header_wrapper.impl_home_wrapper .impl_menu_btn {
+        top: 18px;
+    }
+    .impl_searchbox_wrapper.impl_home_searchbox .nice-select {
+        margin: 0px 9px 30px;
+    }
+    .impl_home_slider h1 {
+        font-size: 44px;
+        margin-bottom: 0;
+        letter-spacing: 3px;
+    }
+    .impl_home_slider .slick-dots {
+        left: 5px;
+    }
+    .impl_signin {
+        width: 95%;
+    }
+    .impl_sign_img {
+        display: none;
+    }
+    .impl_sign_form {
+        width: 100%;
+    }
+    .impl_search_box .nice-select {
+        width: 44%;
+    }
+    .impl_menu_inner {
+        display: inline-block;
+    }
+    .impl_timeline_wrapper ul li {
+        padding-top: 30px;
+    }
+    .impl_tl_icon {
+        top: -42px;
+        right: auto;
+        left: 50%;
+        margin-left: -17.5px;
+    }
+    .impl_timeline_wrapper ul li .impl_tl_item {
+        width: 100%;
+        text-align: center;
+        padding-right: 0;
+    }
+    .impl_timeline_wrapper ul li .impl_tl_item p {
+        padding-left: 0;
+    }
+    .impl_timeline_wrapper ul li .impl_tl_item.impl_tl_item_rt {
+        float: left;
+        text-align: center;
+        padding-left: 0;
+    }
+    .impl_timeline_wrapper ul li .impl_tl_item.impl_tl_item_rt span.impl_tl_icon {
+        left: 50%;
+    }
+    .impl_timeline:before {
+        display: none;
+    }
+    .impl_service_car {
+        display: none;
+    }
+    .impl_fea_car_img img {
+        width: 100%;
+    }
+    .impl_help_data h1:before,
+    .impl_help_data h1:after {
+        display: none;
+    }
+    .impl_help_data h1 {
+        font-size: 27px;
+        top: 0;
+        line-height: 37px;
+        position: relative;
+        left: 0;
+        transform: translate(0);
+        -webkit-transform: translate(0);
+        -moz-transform: translate(0);
+        -ms-transform: translate(0);
+        -o-transform: translate(0);
+    }
+    .impl_social_wrapper ul li a {
+        margin-right: 30px;
+    }
+    ul.impl_pst_views {
+        float: left;
+        padding-top: 10px;
+    }
+    .impl_help_no {
+        top: 0;
+        border: none;
+        position: relative;
+        left: 0;
+        transform: none;
+        -webkit-transform: none;
+        -moz-transform: none;
+        -ms-transform: none;
+        z-index: 1;
+    }
+    .impl_help_data {
+        border: none;
+    }
+    .impl_timeline_wrapper ul li .impl_tl_item.impl_tl_item_rt p {
+        padding-left: 0px;
+        padding-right: 0;
+    }
+    .impl_video_inner {
+        width: 100%;
+    }
+    .impl_welcome_text .panel-title a {
+        font-size: 13.5px;
+        padding: 18px 0px 18px 70px;
+    }
+    .impl_menu_btn {
+        top: 28px;
+    }
+    .impl_logo_responsive {
+        width: 100%;
+    }
+    .impl_menu_btn {
+        display: block;
+    }
+    .impl_menu_wrapper:after {
+        display: none;
+    }
+    .impl_menu_wrapper .impl_btn {
+        display: none;
+    }
+    .impl_menu_wrapper ul {
+        width: 100%;
+    }
+    .impl_menu_wrapper ul li {
+        width: 100%;
+        padding-right: 0px;
+        text-align: center;
+    }
+    .impl_menu_wrapper ul li:last-child {
+        padding-right: 0px;
+    }
+    .impl_menu_wrapper ul li a {
+        float: none;
+        display: inline-block;
+        padding: 15px 10px;
+    }
+    .impl_menu_wrapper ul li a:after {
+        top: 15px;
+        height: 30%;
+    }
+    .impl_menu_wrapper ul li a:before {
+        top: 15px;
+        height: 30%;
+    }
+    .impl_header_wrapper:before {
+        display: none;
+    }
+    .impl_logo {
+        width: 100%;
+        padding-top: 15px;
+        padding-left: 15px;
+        text-align: left;
+    }
+    .impl_top_header {
+        width: 100%;
+        text-align: center;
+    }
+    ul.impl_header_social li {
+        display: inline-block;
+        float: none;
+        margin-right: 15px;
+    }
+    ul.impl_header_social {
+        width: 100%;
+        padding: 0px;
+        padding-bottom: 6px;
+    }
+    .impl_header_time {
+        width: 100%;
+        margin: 0px 0px;
+        padding: 10px 10px;
+    }
+    .impl_header_wrapper.impl_home_wrapper .impl_header_time {
+        padding: 10px 0;
+    }
+    .impl_header_wrapper.impl_home_wrapper ul.impl_header_icons {
+        float: left;
+        width: 100%;
+        padding: 10px 0px;
+    }
+    .impl_header_time:before {
+        right: 0;
+        margin: 0px auto;
+        width: 80px;
+        height: 2px;
+    }
+    .impl_header_time:after {
+        top: 100%;
+        left: 0;
+        margin: 0px auto;
+        width: 80px;
+        height: 2px;
+    }
+    ul.impl_header_icons {
+        width: 100%;
+        padding-top: 7px;
+    }
+    ul.impl_header_icons li {
+        float: none;
+        display: inline-block;
+        width: auto;
+        margin-right: 15px;
+    }
+    .impl_search_box {
+        padding: 15px 15px;
+    }
+    .price_range {
+        width: 100%;
+        padding: 0px 15px;
+    }
+    .impl_search_btn {
+        padding-top: 40px;
+        padding-bottom: 15px;
+    }
+    .impl_search_box select {
+        width: 43%;
+    }
+    .impl_searchbox_wrapper {
+        top: 0px;
+    }
+    .impl_welcome_img {
+        margin-top: 80px;
+        margin-bottom: 50px;
+    }
+    .srch_close_btn {
+        top: -40%;
+    }
+    .srch_inner {
+        width: 90%;
+    }
+    .srch_inner form {
+        width: 100%;
+    }
+    li.impl_search {
+        position: relative;
+        top: 5px;
+    }
+    .impl_sorting_text span.impl_show {
+        margin-right: 22px;
+    }
+    .impl_category_type {
+        float: left;
+        margin-top: 15px;
+    }
+}
+@media (max-width: 767px) and (orientation: landscape) {
+	.impl_slider_wrapper .impl_btn {
+		height: auto !important;
+	}
+	.impl_signin {
+		overflow-y: scroll;
+		height: 300px;
+	}
+
+    .impl_signin::-webkit-scrollbar {
+        width: 3px;
+    }
+    .impl_signin::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 6px #f15b5a;
+    }
+    .impl_signin::-webkit-scrollbar-thumb {
+        background-color: #f15b5a;
+        outline: 2px solid #f15b5a;
+    }		
+
+}
+@media (max-width: 667px) and (orientation: landscape) {
+	ul.impl_pst_views {
+    float: left;
+    width: 100%;
+}
+.impl_pst_admin {
+    float: left;
+}
+}
+@media (max-width: 610px) {} @media (min-width: 480px) and (max-width: 767px) {
+    .impl_buycar_data.impl_buy_old_car_data {
+        padding-left: 15px;
+    }
+    #signup .impl_sign_form {
+        padding: 33px 30px 35px 29px;
+    }
+    .impl_sign_form {
+        padding: 27px 30px 35px 31px;
+    }
+    .impl_buycar_data .impl_btn {
+        min-width: 110px;
+    }
+    .impl_bread_wrapper {
+        padding: 80px 0px;
+    }
+}
+@media(max-width:480px) {
+    #signup .impl_sign_form {
+        padding: 33px 30px 35px 29px;
+    }
+    .impl_sign_form {
+        padding: 27px 30px 35px 31px;
+    }
+    .impl_buycar_data .impl_btn {
+        min-width: 110px;
+    }
+}
+@media (max-width: 479px) {
+	.gotop{
+		right:10px;
+	}
+    .impl_search_box select {
+        width: 100%;
+        margin: 15px 0px;
+    }
+    .price_range {
+        padding: 0px 0px;
+    }
+    .impl_welcome_text .panel-title a {
+        padding: 10px 0px 10px 70px;
+    }
+    .impl_welcome_text .panel-default>.panel-heading+.panel-collapse>.panel-body {
+        padding: 10px;
+    }
+    .impl_welcome_text .panel-group .panel+.panel {
+        margin-top: 10px;
+    }
+    .impl_menu_wrapper .impl_menu_inner .impl_menu {
+        left: -120%;
+    }
+    .impl_menu_wrapper .impl_menu_inner .impl_menu {
+        width: 250px;
+    }
+    .impl_slider_wrapper .impl_btn {
+        height: auto;
+        line-height: 40px;
+    }
+    .impl_search_box .nice-select {
+        width: 100%;
+        margin: 0px 0px 20px;
+    }
+    .impl_welcome_text h1 {
+        font-size: 25px;
+    }
+    .impl_welcome_text .panel-title a {
+        line-height: 18px;
+    }
+    .impl_play_icon {
+        width: 55px;
+        height: 55px;
+        line-height: 55px;
+        font-size: 25px;
+    }
+    .impl_play_icon:before {
+        width: 70px;
+        height: 70px;
+        left: -35px;
+        top: -9px;
+    }
+    .impl_fea_car_data {
+        padding: 30px 20px;
+    }
+    .impl_help_no {
+        min-width: 100%;
+    }
+    .impl_post_data {
+        padding: 0px 15px 15px!important;
+    }
+    .impl_social_wrapper ul li a {
+        margin: 0px 15px;
+    }
+    .srch_close_btn {
+        top: -40%;
+    }
+    .srch_inner {
+        width: 90%;
+    }
+    .srch_inner form {
+        width: 100%;
+    }
+    .impl_ex_btn {
+        padding-top: 54px;
+    }
+    .impl_home_slider h1 {
+        font-size: 26px;
+        margin-bottom: 9px;
+    }
+    .impl_home_slider_wrapper {
+        padding: 100px 0px;
+    }
+    p.slogan {
+        font-size: 20px;
+    }
+    .impl_searchbox_wrapper.impl_home_searchbox .nice-select {
+        margin: 0px 0px 30px;
+        width: 100%;
+    }
+    .impl_searchbox_wrapper.impl_home_searchbox .impl_search_box h1 {
+        font-size: 23px;
+    }
+    .impl_searchbox_wrapper.impl_home_searchbox .price_range .irs.js-irs-0 {
+        width: 100%;
+    }
+    .impl_ser_text_ovrly p {
+        padding: 15px 10px 0px;
+    }
+    .impl_app_img a {
+        margin-bottom: 20px;
+        display: block;
+    }
+    .impl_app_wrapper h1 {
+        font-size: 25px;
+    }
+    .impl_test_slider_box {
+        width: 100%;
+    }
+    .impl_test_img {
+        width: 100%;
+    }
+    .impl_test_footer {
+        text-align: center;
+        margin-right: 0;
+    }
+    .impl_category_type {
+        float: none;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .impl_category_type .impl_btn {
+        min-width: 110px;
+    }
+    .impl_pagination_wrapper ul.pagination li.page-item:last-child {
+        margin-right: 10px;
+    }
+    .impl_bread_wrapper h1 {
+        font-size: 30px;
+    }
+    .impl_buycar_color .slick-slide.slick-current .car_color:after {
+        width: 40px;
+        height: 40px;
+    }
+    .impl_buycar_color .car_color {
+        width: 30px;
+        height: 30px;
+    }
+    .impl_buycar_data h1 {
+        font-size: 24px;
+    }
+    .impl_buycar_data {
+        padding-left: 0;
+    }
+    .car_emi_wrapper span {
+        display: block;
+    }
+    .car_emi_wrapper > a {
+        padding-left: 0;
+    }
+    .impl_btn:after {
+        -webkit-transform: none;
+        -moz-transform: none;
+        -o-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+    .impl_old_buy_btn {
+        padding-left: 0px;
+    }
+    .impl_old_buy_btn .impl_btn {
+        font-size: 13px;
+        min-width: 110px;
+        margin-bottom: 10px;
+    }
+    .impl_heading h1 {
+        font-size: 24px;
+    }
+    .impl_car_spesi_list ul li {
+        width: 100%;
+        margin-right: 0;
+    }
+    .review_date {
+        display: block;
+        margin-left: 0;
+        width: 100%;
+    }
+    .impl_review_box {
+        padding: 25px 15px;
+    }
+    ul.review_rating {
+        display: block;
+        width: 100%;
+    }
+    .cart-box {
+        width: 250px;
+        right: -102px;
+    }
+    .cart-box .content {
+        padding-left: 10px;
+    }
+    .cart-box .content .title {
+        font-size: 13px;
+    }
+    .cart-box .popup-container:before {
+        right: 78px;
+    }
+    .impl_sign_form .form-control {
+        margin-bottom: 15px;
+    }
+    .impl_sign_form .forget_password a {
+        float: left;
+    }
+    #signup .impl_sign_form {
+        padding: 27px 25px 45px;
+    }
+    .impl_bread_wrapper {
+        padding: 70px 0px;
+    }
+    .impl_sign_form {
+        padding: 28px 25px 30px;
+    }
+    .impl_oldsingle_wrapper .impl_buycar_data h1 {
+        font-size: 22px;
+    }
+    .impl_old_buy_btn {
+        text-align: center;
+		float:left;
+    }
+    .impl_blog_section .impl_blog_box .impl_post_data ul.impl_pst_views {
+        float: left;
+        padding-top: 10px;
+    }
+    .comment-reply {
+        float: none;
+        margin-top: 20px;
+        text-align: center;
+    }
+    .impl_comments {
+        text-align: center;
+    }
+    .comment_data_info h3 {
+        float: none;
+        margin-top: 15px;
+    }
+    .comment_data_info p {
+        float: none;
+        margin-top: 10px;
+    }
+    .comment_data_info h3 a {
+        margin-right: 0;
+    }
+    .comment_data {
+        width: 100%;
+    }
+    .comment_img {
+        float: none;
+    }
+    .comment_img img {
+        margin: 0px;
+    }
+    #step_progressbar li ,#impl_sform .steps ul li{
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 24px;
+        margin-right: 17px;
+        -webkit-transform: none;
+        -moz-transform: none;
+        -o-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+    ul.step_car_img li:last-child {
+        margin-right: 15px;
+    }
+    #step_progressbar li:after ,#impl_sform .steps ul li:after{
+        display: none;
+    }
+    .step_car_features ul li {
+        width: 100%;
+    }
+    .step_car_features ul:before {
+        display: none;
+    }
+    #step_progressbar li span ,#impl_sform .steps ul li .step_number{
+        -webkit-transform: none;
+        -moz-transform: none;
+        -o-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+    .compare_img {
+        margin-bottom: 30px;
+    }
+    .compare_btn button.impl_btn {
+        margin: 10px 13px;
+    }
+    .impl_checkout_wrapper #step_progressbar li {
+        width: 100%;
+    }
+    .impl_cart_footer .impl_footer_subs .foo_subs_btn {
+        width: 65px;
+        font-size: 13px;
+    }
+    .impl_cart_footer .impl_footer_subs .foo_subs_btn:before {
+        display: none;
+    }
+    .impl_cart_footer .impl_footer_subs input {
+        font-size: 12px;
+        padding-left: 10px;
+        padding-right: 65px;
+    }
+    .impl_card_type .radio_control {
+        margin-right: 15px;
+        padding-left: 18px;
+    }
+    .pay_select_box label {
+        width: 100%;
+        text-align: left;
+    }
+    .pay_select_box .nice-select {
+        width: 55%;
+        margin-left: 0px;
+        margin-bottom: 10px;
+    }
+    .pay_select_box .nice-select .list {
+        width: 100%;
+    }
+    .impl_step.impl_print_rcpt h1 {
+        font-size: 25px;
+    }
+    .impl_step.impl_print_rcpt p {
+        line-height: 25px;
+    }
+    .impl_con_form {
+        padding: 0px 0px 30px 0px;
+    }
+    .impl_con_form h1 {
+        font-size: 25px;
+    }
+    .error_text span {
+        font-size: 70px;
+        width: 82px;
+        height: 100px;
+        line-height: 85px;
+    }
+    .error_text span.err_2:before,
+    .error_text span.err_2:after {
+        display: none;
+    }
+	.impl_social_wrapper ul li:last-child a {
+		margin-right: 15px;
+	}
+
+}
+@media (max-width: 375px){
+	.impl_social_wrapper ul li a {
+		margin: 0px 9px;
+	}
+	ul.step_car_img li:last-child {
+    margin-right: 0;
+}
+	ul.step_car_img li {
+    margin: 0px 0px 25px;
+	}
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+	.price_range {
+		top: -30px;
+	}
+	.impl_footer_wrapper.impl_home_footer {
+		position:relative;
+		z-index:1;
+}
+	.impl_blog_wrapper.impl_home_blog {
+		margin-bottom: 0px;
+	}
+	.impl_menu_wrapper ul li a {
+        line-height:7px;
+}
+.impl_header_wrapper{
+	/* overflow:hidden; */
+}
+.impl_logo{
+	z-index:1;
+}
+.impl_logo:after{
+	position:absolute;
+	width:200px;
+	height:120px;
+	content:"";
+	background-color:#151515;
+	z-index:-1;
+	right:-56px;
+	transform:skew(-40deg);
+	-webkit-transform:skew(-40deg);
+	-moz-transform:skew(-40deg);
+	-ms-transform:skew(-40deg);	
+}
+.impl_header_wrapper.impl_home_wrapper .impl_logo:after{
+	display:none;
+}
+.impl_welcome_text .panel-title a{
+	padding:17px 0px 17px 70px;
+}
+.impl_logo{
+	padding:0px 90px 0px 80px;
+}
+.impl_service_wrapper .impl_service_video{
+	overflow:hidden;
+	right:-100px;
+}
+.impl_service_wrapper{
+	overflow:hidden;
+}
+.impl_play_icon{
+	left:46%;
+}
+}
